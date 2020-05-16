@@ -5,7 +5,7 @@ Quizzler is a quiz app that tests your general knowledge. This project is one of
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
 
-## Learned
+## Implementations
 
 - Stateful and Stateless Widgets
 - Modularising your code into separate classes.
