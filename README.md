@@ -1,7 +1,7 @@
 # Quizzler
 
 ## Description
-Quizzler is a quiz app that tests your general knowledge.
+Quizzler is a quiz app that tests your general knowledge. This project is one of the learning projects done for the flutter fundamentals course by appbrewery.
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
 
